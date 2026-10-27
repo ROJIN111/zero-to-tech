@@ -1,6 +1,7 @@
 {
   "name": "zero-to-tech",
   "version": "1.0.0",
+  "type": "module",
   "description": "> 这是 **零到全栈 · 模块 4.1：现代前端第一步——模块化** 的配套代码——\r > 网站**模块化改造之前**的起点版本。",
   "main": "script.js",
   "scripts": {
